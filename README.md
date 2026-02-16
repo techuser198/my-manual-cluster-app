@@ -1,4 +1,5 @@
 
+#THIS IS A VERY SIMPLE PROJECT ON KUBEADM WITH GCP
 # my-manual-cluster-app
 
 ## Setup Instructions
@@ -23,3 +24,5 @@ CI/CD will:
 
 Access app:
 http://CONTROL_PLANE_IP:30007
+
+
