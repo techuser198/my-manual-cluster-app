@@ -1,5 +1,5 @@
 
-#THIS IS A VERY SIMPLE PROJECT ON KUBEADM WITH GCP from local machine
+#THIS IS A VERY SIMPLE PROJECT ON KUBEADM WITH GCP from local machine (windows)
 # my-manual-cluster-app
 
 ## Setup Instructions
